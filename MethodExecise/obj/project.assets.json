@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/walterbrunopradovieira/repos/MethodExecise/MethodExecise/MethodExecise.csproj",
+      "projectUniqueName": "/Users/walterbrunopradovieira/repos/MethodExercise/MethodExecise/MethodExecise.csproj",
       "projectName": "MethodExecise",
-      "projectPath": "/Users/walterbrunopradovieira/repos/MethodExecise/MethodExecise/MethodExecise.csproj",
+      "projectPath": "/Users/walterbrunopradovieira/repos/MethodExercise/MethodExecise/MethodExecise.csproj",
       "packagesPath": "/Users/walterbrunopradovieira/.nuget/packages/",
-      "outputPath": "/Users/walterbrunopradovieira/repos/MethodExecise/MethodExecise/obj/",
+      "outputPath": "/Users/walterbrunopradovieira/repos/MethodExercise/MethodExecise/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/walterbrunopradovieira/.config/NuGet/NuGet.Config"

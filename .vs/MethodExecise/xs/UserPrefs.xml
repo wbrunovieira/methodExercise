@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{E0AD230C-BD3D-4B74-9A55-CF4715A4BB2C}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="MethodExecise/Program.cs">
     <Files>
-      <File FileName="MethodExecise/Program.cs" Line="19" Column="43" />
+      <File FileName="MethodExecise/Program.cs" Line="26" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,7 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.MethodExecise FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MethodExecise PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

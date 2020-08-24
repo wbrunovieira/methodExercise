@@ -1,0 +1,12 @@
+/Users/walterbrunopradovieira/repos/MethodExercise/MethodExecise/obj/Debug/netcoreapp3.1/MethodExecise.csprojAssemblyReference.cache
+/Users/walterbrunopradovieira/repos/MethodExercise/MethodExecise/obj/Debug/netcoreapp3.1/MethodExecise.AssemblyInfoInputs.cache
+/Users/walterbrunopradovieira/repos/MethodExercise/MethodExecise/obj/Debug/netcoreapp3.1/MethodExecise.AssemblyInfo.cs
+/Users/walterbrunopradovieira/repos/MethodExercise/MethodExecise/obj/Debug/netcoreapp3.1/MethodExecise.csproj.CoreCompileInputs.cache
+/Users/walterbrunopradovieira/repos/MethodExercise/MethodExecise/bin/Debug/netcoreapp3.1/MethodExecise.deps.json
+/Users/walterbrunopradovieira/repos/MethodExercise/MethodExecise/bin/Debug/netcoreapp3.1/MethodExecise.runtimeconfig.json
+/Users/walterbrunopradovieira/repos/MethodExercise/MethodExecise/bin/Debug/netcoreapp3.1/MethodExecise.runtimeconfig.dev.json
+/Users/walterbrunopradovieira/repos/MethodExercise/MethodExecise/bin/Debug/netcoreapp3.1/MethodExecise.dll
+/Users/walterbrunopradovieira/repos/MethodExercise/MethodExecise/bin/Debug/netcoreapp3.1/MethodExecise.pdb
+/Users/walterbrunopradovieira/repos/MethodExercise/MethodExecise/obj/Debug/netcoreapp3.1/MethodExecise.dll
+/Users/walterbrunopradovieira/repos/MethodExercise/MethodExecise/obj/Debug/netcoreapp3.1/MethodExecise.pdb
+/Users/walterbrunopradovieira/repos/MethodExercise/MethodExecise/obj/Debug/netcoreapp3.1/MethodExecise.genruntimeconfig.cache
